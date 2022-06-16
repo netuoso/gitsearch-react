@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.96e28763.css",
+    "main.js": "/static/js/main.64afe791.js",
+    "static/media/octocat.svg": "/static/media/octocat.f0106e45aad55bd4ed7c982b3d8af679.svg",
+    "index.html": "/index.html",
+    "main.96e28763.css.map": "/static/css/main.96e28763.css.map",
+    "main.64afe791.js.map": "/static/js/main.64afe791.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96e28763.css",
+    "static/js/main.64afe791.js"
+  ]
+}
